@@ -1,4 +1,4 @@
-Enhanced version of Trilium Notes
+Customized version of Trilium Notes
 
 # Trilium Notes
 
